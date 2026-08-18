@@ -85,7 +85,3 @@ O projeto inclui o `prisma-erd-generator` e o `@mermaid-js/mermaid-cli` configur
 npx prisma generate
 
 ```
-
-```
-
-```
